@@ -1,0 +1,11 @@
+torch>=2.0.0
+torchvision
+numpy
+scipy
+matplotlib
+mrcfile
+nglview
+MDAnalysis
+tqdm
+einops
+ipywidgets
